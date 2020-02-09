@@ -17,9 +17,9 @@
                 <div class="pr-5"><strong>115</strong> followers</div>
                 <div class="pr-5"><strong>215</strong> following</div>
             </div>
-            <div class="pt-4 font-weight-bold">freeCodeCamp.org</div>
-            <div>An app that simulates Instagram built with Laravel</div>
-            <div><a href="#">www.freecodecamp.org</a></div>
+            <div class="pt-4 font-weight-bold">{{ $user->profile->title }}</div>
+            <div>{{ $user->profile->description }}</div>
+            <div><a href="#">{{ $user->profile->url }}</a></div>
         </div>
     </div>
 
