@@ -17,6 +17,21 @@
                 <div class="pr-5"><strong>115</strong> followers</div>
                 <div class="pr-5"><strong>215</strong> following</div>
             </div>
+            <div class="pt-4 font-weight-bold">freeCodeCamp.org</div>
+            <div>An app that simulates Instagram built with Laravel</div>
+            <div><a href="#">www.freecodecamp.org</a></div>
+        </div>
+    </div>
+
+    <div class="row p-5">
+        <div class="col-4">
+            <img src="https://media.sweetwater.com/api/i/q-82__ha-2cb98b70c96389e7__hmac-a17edd0d60f9f3f7afdfdf8afc2105f8fe01dbef/images/items/750/RG421PFM-large.jpg" class="w-100" style="width:200px; height:200px">
+        </div>
+        <div class="col-4">
+            <img src="https://shop.r10s.jp/jivemusic/cabinet/ap/eg-rg370zb_1.jpg" class="w-100" style="width:200px; height:200px">
+        </div>
+        <div class="col-4">
+            <img src="https://static.turbosquid.com/Preview/001224/146/EE/3D-guitar-ibanez-mtm-1_Z.jpg" class="w-100" style="width:200px; height:200px">
         </div>
     </div>
 </div>
