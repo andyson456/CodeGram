@@ -9,7 +9,7 @@
         <div class="col-9 p-5"]>
             <div>
                 <h1>
-                    freeCodeGram
+                    {{ $user->username }}
                 </h1>
             </div>
             <div class="d-flex">
