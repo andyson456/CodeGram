@@ -7,10 +7,11 @@
             <img src="https://yt3.ggpht.com/a/AGF-l7_sGUrG_alh-mdTIDmdcaw1GanuPL2PxVajjQ=s900-c-k-c0xffffffff-no-rj-mo" class="rounded-circle" style="width:100px; height:100px">
         </div>
         <div class="col-9 p-5"]>
-            <div>
+            <div class="d-flex justify-content-between align-items-baseline">
                 <h1>
                     {{ $user->username }}
                 </h1>
+                <a href="#">Add New Post</a>
             </div>
             <div class="d-flex">
                 <div class="pr-5"><strong>209</strong> posts</div>
